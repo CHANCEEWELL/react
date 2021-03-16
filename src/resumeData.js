@@ -1,10 +1,15 @@
 let resumeData = {
     "imagebaseurl":"https://Chanceewell.github.io/",
     "name": "Chance Ewell",
-    "role": "Frontend Developer & Data Science",
+    "role": "Full-Stack Web Developer with a specialization in Front-end Design UX/UI",
     "linkedinId":"Your LinkedIn Id",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "",
     "socialLinks":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/ChanceEwell",
+        "className":"fa fa-twitter"
+      },
         {
           "name":"linkedin",
           "url":"https://www.linkedin.com/in/chanceewell/",
@@ -20,38 +25,35 @@ let resumeData = {
         }
       ],
     "aboutme":"I am currently graduated from The University Of Utah's Full-Stack Development Bootcamp. I am specialized as a Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"USA",
-    "website":"",
+    "address":"chance.shane.ewell@gmail.com",
+    "website":"435-256-7527",
     "education":[
-      {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
-      },
       {
         "UniversityName":"The University Of Utah",
         "specialization":"Full-Stack Web Development",
         "MonthOfPassing":"March",
         "YearOfPassing":"2021",
-        "Achievements":"9 month developer bootcamp"
-      }
+        "Achievements":"Certificate of Graduation"
+      },
+
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Busybusy Inc,",
+        "specialization":"Business Development Manager"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
+        "CompanyName":"PrinterLogic",
+        "specialization":"Account Development Manager",
+        "MonthOfLeaving":"Aug",
+        "YearOfLeaving":"2019"
+      },
+      {
+        "CompanyName":"HFB Technologies",
+        "specialization":"Front-end web design",
+        "MonthOfLeaving":"Aug",
         "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":"Onboarding Specialist"
       }
     ],
     "skillsDescription":"",
