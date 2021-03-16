@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"https://Chanceewell.github.io/",
     "name": "Chance Ewell",
     "role": "Full-Stack Web Developer with a specialization in Front-end Design UX/UI",
-    "linkedinId":"Your LinkedIn Id",
+    "linkedinId":"Chanceewell",
     "roleDescription": "",
     "socialLinks":[
       {
@@ -92,8 +92,8 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Chance is the definition of success. He puts his entire heart into EVERYTHING he does. There isn’t a person out there that can outwork this guy. He’s full of integrity, and will always be the first to show up and last to leave. He is kind, conscientious, and gritty. I hold Chance in the HIGHEST regard and recommend him without any reservation.",
+        "name":"Roger Comstock, Founder & CEO of Tuple Software"
       },
       {
         "description":"This is a sample testimonial",
